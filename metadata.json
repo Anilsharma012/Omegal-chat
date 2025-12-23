@@ -1,0 +1,8 @@
+{
+  "name": "RandomTalk Live",
+  "description": "An anonymous 1-to-1 video chat application with real-time text messaging, featuring WebRTC for video and Socket.io for matching.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
